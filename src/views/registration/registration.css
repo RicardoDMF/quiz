@@ -1,0 +1,37 @@
+.buttonQuestionStart  {
+  background-color: crimson;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid black;
+  box-shadow: 4px rgb(139, 28, 28);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  margin: 5px;
+  padding: 7px;
+}
+
+.textToStart {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* display: flex;
+  justify-content: center; */
+  align-items: center;
+  
+}
+.buttonClass {
+  background-color: crimson;
+  border: 1px solid black;
+  box-shadow: 4px rgb(139, 28, 28);
+  font-size: large;
+  cursor: pointer;
+  margin: 5px;
+  padding: 7px;
+}
+.field {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

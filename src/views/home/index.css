@@ -1,0 +1,22 @@
+.ButtonRegistration  {
+    background-color: crimson;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid black;
+  box-shadow: 4px rgb(139, 28, 28);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  margin: 5px;
+  padding: 7px;
+}
+
+.general {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    
+}
+.Information {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

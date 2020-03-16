@@ -1,0 +1,28 @@
+.mainBody {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.multipleChoice {
+  background-color: crimson;
+  border: 1px solid black;
+  box-shadow: 4px rgb(139, 28, 28);
+  font-size: large;
+  cursor: pointer;
+  margin: 5px;
+  padding: 6px;
+}
+
+.backTrack {
+  background-color: crimson;
+  border: 1px solid black;
+  box-shadow: 4px rgb(139, 28, 28);
+  font-size: large;
+  cursor: pointer;
+  margin: 5px;
+  padding: 7px;
+}
